@@ -1,0 +1,528 @@
+{
+    "S.203": [
+        {
+            "en": "pro",
+            "de": "Pro, Vorteil"
+        },
+        {
+            "en": "con",
+            "de": "Kontra, Nachteil"
+        },
+        {
+            "en": "mall",
+            "de": "Einkaufszentrum"
+        },
+        {
+            "en": "electronic",
+            "de": "elektronisch"
+        },
+        {
+            "en": "goods",
+            "de": "Waren, Güter, Geräte"
+        },
+        {
+            "en": "stall",
+            "de": "Stand, Bude"
+        },
+        {
+            "en": "noodle",
+            "de": "Nudel"
+        },
+        {
+            "en": "to taste",
+            "de": "schmecken"
+        },
+        {
+            "en": "pollution",
+            "de": "Verschmutzung"
+        },
+        {
+            "en": "thick",
+            "de": "dick"
+        },
+        {
+            "en": "smog",
+            "de": "Smog"
+        },
+        {
+            "en": "health",
+            "de": "Gesundheits-, gesundheitlich"
+        },
+        {
+            "en": "martial art",
+            "de": "Kampfkunst, Kampfsportart"
+        },
+        {
+            "en": "media",
+            "de": "Medien-"
+        },
+        {
+            "en": "mixture",
+            "de": "Mischung"
+        },
+        {
+            "en": "to relax",
+            "de": "sich entspannen, sich ausruhen"
+        },
+        {
+            "en": "scale",
+            "de": "Skala, Maßstab, Ausmaß"
+        },
+        {
+            "en": "hurry",
+            "de": "Eile, Hast"
+        },
+        {
+            "en": "bank",
+            "de": "Bank"
+        },
+        {
+            "en": "pressure",
+            "de": "Druck"
+        },
+        {
+            "en": "to browse",
+            "de": "durchstöbern"
+        },
+        {
+            "en": "latest",
+            "de": "neueste"
+        },
+        {
+            "en": "brand-new",
+            "de": "brandneu"
+        },
+        {
+            "en": "original",
+            "de": "original, ursprünglich"
+        },
+        {
+            "en": "to resell",
+            "de": "wiederverkaufen, weiterverkaufen"
+        },
+        {
+            "en": "to swap",
+            "de": "tauschen"
+        },
+        {
+            "en": "to afford",
+            "de": "sich leisten"
+        },
+        {
+            "en": "to bargain",
+            "de": "(ver)handeln"
+        },
+        {
+            "en": "to purchase",
+            "de": "kaufen, erwerben"
+        },
+        {
+            "en": "to stock",
+            "de": "führen, vorrätig haben"
+        },
+        {
+            "en": "offer",
+            "de": "Angebot"
+        },
+        {
+            "en": "to waste",
+            "de": "verschwenden"
+        },
+        {
+            "en": "second-hand",
+            "de": "gebraucht, second-hand, aus zweiter Hand"
+        },
+        {
+            "en": "to contact",
+            "de": "sich in Verbindung setzen, kontaktieren"
+        },
+        {
+            "en": "discount",
+            "de": "Rabatt, Preisnachlass"
+        }
+    ],
+    "S.204": [
+        {
+            "en": "sneakerhead",
+            "de": "Sammler von Sportschuhen"
+        },
+        {
+            "en": "rare",
+            "de": "rar, selten"
+        },
+        {
+            "en": "pair",
+            "de": "Paar"
+        },
+        {
+            "en": "heart",
+            "de": "Herz, Zentrum"
+        },
+        {
+            "en": "busy",
+            "de": "rege, belebt, hier: aktiv"
+        },
+        {
+            "en": "district",
+            "de": "Distrikt, Bezirk"
+        },
+        {
+            "en": "sneaker",
+            "de": "Sportschuh, Sneaker"
+        },
+        {
+            "en": "to camp",
+            "de": "campen, kampieren, zelten"
+        },
+        {
+            "en": "overnight",
+            "de": "über Nacht"
+        },
+        {
+            "en": "to claim",
+            "de": "behaupten, beanspruchen"
+        },
+        {
+            "en": "to go crazy",
+            "de": "ausflippen, durchdrehen, verrückt werden"
+        },
+        {
+            "en": "to nag sb",
+            "de": "jmdm. auf die Nerven gehen"
+        },
+        {
+            "en": "for ages",
+            "de": "ewig lange"
+        },
+        {
+            "en": "pocket money",
+            "de": "Taschengeld"
+        },
+        {
+            "en": "grown-up",
+            "de": "Erwachsener, Erwachsene"
+        },
+        {
+            "en": "to keep a record of sth",
+            "de": "über etw. Buch führen"
+        },
+        {
+            "en": "twice",
+            "de": "zweimal, doppelt"
+        },
+        {
+            "en": "to guess",
+            "de": "annehmen, vermuten, schätzen"
+        },
+        {
+            "en": "the poor",
+            "de": "die Armen"
+        },
+        {
+            "en": "to do sth about sth",
+            "de": "etw. gegen etw. unternehmen"
+        },
+        {
+            "en": "to produce",
+            "de": "erzeugen, herstellen, anbauen"
+        },
+        {
+            "en": "to increase",
+            "de": "erhöhen, steigern"
+        },
+        {
+            "en": "to improve",
+            "de": "verbessern"
+        },
+        {
+            "en": "to decrease",
+            "de": "vermindern, abnehmen"
+        },
+        {
+            "en": "to raise",
+            "de": "anheben, erhöhen"
+        },
+        {
+            "en": "to generate",
+            "de": "generieren, erzeugen"
+        },
+        {
+            "en": "to alter",
+            "de": "(ver)ändern"
+        },
+        {
+            "en": "host",
+            "de": "Talkmaster, Gastgeber, Gastgeberin"
+        },
+        {
+            "en": "conversation",
+            "de": "Konversation, Gespräch, Unterhaltung"
+        }
+    ],
+    "S.205": [
+        {
+            "en": "renewable energy",
+            "de": "erneuerbare Energie"
+        },
+        {
+            "en": "not at all",
+            "de": "überhaupt nicht, gar nicht"
+        },
+        {
+            "en": "power plant",
+            "de": "Kraftwerk"
+        },
+        {
+            "en": "to get worse",
+            "de": "schlimmer werden"
+        },
+        {
+            "en": "technology",
+            "de": "Technologie"
+        },
+        {
+            "en": "instead of",
+            "de": "statt, anstatt, an Stelle von"
+        },
+        {
+            "en": "bath",
+            "de": "Bad, Badewanne"
+        },
+        {
+            "en": "eco-friendly",
+            "de": "umweltfreundlich"
+        },
+        {
+            "en": "solar panel",
+            "de": "Sonnenkollektor"
+        },
+        {
+            "en": "roof",
+            "de": "Dach"
+        },
+        {
+            "en": "motion sensor",
+            "de": "Bewegungsmelder"
+        },
+        {
+            "en": "light",
+            "de": "Licht, Lampe"
+        },
+        {
+            "en": "to go on",
+            "de": "angehen"
+        },
+        {
+            "en": "development",
+            "de": "Entwicklung"
+        },
+        {
+            "en": "transparent",
+            "de": "durchsichtig, transparent"
+        },
+        {
+            "en": "cell",
+            "de": "Zelle"
+        },
+        {
+            "en": "exhaust fumes",
+            "de": "Abgase (von Fahrzeugen)"
+        },
+        {
+            "en": "pod",
+            "de": "hier: Gondel, Kabine"
+        },
+        {
+            "en": "ski lift",
+            "de": "Skilift"
+        },
+        {
+            "en": "to carry",
+            "de": "befördern"
+        },
+        {
+            "en": "quality",
+            "de": "Qualität, Eigenschaft, Merkmal"
+        },
+        {
+            "en": "effect",
+            "de": "Effekt, Wirkung, Auswirkung"
+        },
+        {
+            "en": "aged",
+            "de": "im Alter von"
+        },
+        {
+            "en": "chart",
+            "de": "Diagramm, Tabelle"
+        },
+        {
+            "en": "truth",
+            "de": "Wahrheit"
+        },
+        {
+            "en": "out",
+            "de": "draußen, aus, außerhalb"
+        },
+        {
+            "en": "puzzle",
+            "de": "Rätsel, Puzzle"
+        },
+        {
+            "en": "press",
+            "de": "Presse"
+        },
+        {
+            "en": "to threaten",
+            "de": "bedrohen"
+        },
+        {
+            "en": "to punish",
+            "de": "bestrafen"
+        },
+        {
+            "en": "journalist",
+            "de": "Journalist, Journalistin"
+        }
+    ],
+    "S.206": [
+        {
+            "en": "to publish",
+            "de": "veröffentlichen, publizieren, verlegen"
+        },
+        {
+            "en": "international",
+            "de": "international"
+        },
+        {
+            "en": "to censor",
+            "de": "zensieren"
+        },
+        {
+            "en": "control",
+            "de": "Kontrolle"
+        },
+        {
+            "en": "publisher",
+            "de": "Verlag, Herausgeber"
+        },
+        {
+            "en": "critical",
+            "de": "kritisch"
+        },
+        {
+            "en": "flow",
+            "de": "Fluss, Fließen, Strömung"
+        },
+        {
+            "en": "to control",
+            "de": "kontrollieren"
+        },
+        {
+            "en": "phrase",
+            "de": "Redewendung, Ausdruck, Satz"
+        },
+        {
+            "en": "democracy",
+            "de": "Demokratie"
+        },
+        {
+            "en": "oppression",
+            "de": "Unterdrückung"
+        },
+        {
+            "en": "human rights",
+            "de": "Menschenrechte"
+        },
+        {
+            "en": "freedom of speech",
+            "de": "Redefreiheit"
+        },
+        {
+            "en": "to guarantee",
+            "de": "garantieren, gewährleisten"
+        },
+        {
+            "en": "limit",
+            "de": "Limit, Grenze, Beschränkung"
+        },
+        {
+            "en": "to glorify",
+            "de": "verherrlichen"
+        },
+        {
+            "en": "right-wing",
+            "de": "rechtsorientiert, rechts-"
+        },
+        {
+            "en": "extremism",
+            "de": "Extremismus"
+        },
+        {
+            "en": "to remove",
+            "de": "entfernen"
+        },
+        {
+            "en": "objective",
+            "de": "sachlich, objektiv"
+        },
+        {
+            "en": "terrorist",
+            "de": "Terrorist, Terroristin"
+        },
+        {
+            "en": "to take sth for granted",
+            "de": "etw. als selbstverständlich hinnehmen, etw. als gegeben voraussetzen"
+        },
+        {
+            "en": "source",
+            "de": "Quelle"
+        },
+        {
+            "en": "access",
+            "de": "Zugang, Zutritt"
+        },
+        {
+            "en": "restriction",
+            "de": "Beschränkung, Einschränkung"
+        },
+        {
+            "en": "available",
+            "de": "erhältlich, verfügbar"
+        },
+        {
+            "en": "speed limit",
+            "de": "Geschwindigkeitsbeschränkung"
+        },
+        {
+            "en": "mph (miles per hour)",
+            "de": "kmh (Kilometer pro Stunde)"
+        },
+        {
+            "en": "floor",
+            "de": "Stockwerk"
+        },
+        {
+            "en": "on top of",
+            "de": "oben, obendrauf"
+        }
+    ],
+    "S.207 (Test)": [
+        {
+            "en": "test1",
+            "de": "Test1"
+        },
+        {
+            "en": "test2",
+            "de": "Test2"
+        },
+        {
+            "en": "house",
+            "de": "Haus"
+        },
+        {
+            "en": "mouse",
+            "de": "Maus"
+        }
+    ]
+}
