@@ -3,7 +3,7 @@ import json
 import os
 import random
 
-DATEI = r"C:\Users\justi\Dropbox\Vokabeltrainer\lernsets.json"
+DATEI = "lernsets.json"
 
 
 # ---------------- DATEN ----------------
