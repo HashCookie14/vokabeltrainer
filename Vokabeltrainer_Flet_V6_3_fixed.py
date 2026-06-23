@@ -408,4 +408,10 @@ def main(page: ft.Page):
     home()
 
 
-ft.app(target=main)
+import os
+
+ft.app(
+    target=main,
+    port=int(os.environ.get("PORT", 8080)),
+    view=ft.AppView.WEB_BROWSER
+)
